@@ -22,7 +22,7 @@ This userscript automatically exchanges bonus points when they exceed a configur
 
 - 🎛️ Draggable & resizable control panel with persistent positioning
 - ⚡ Automatic bonus exchange when threshold is exceeded
-- 🔄 Real-time bonus updates via AJAX (no page reload)
+- 🔄 Real-time bonus updates via AJAX
 - 💾 Persistent state storage using localStorage
 - 📊 Track exchange history and upload statistics
 - ✏️ Custom notes with manual input/copy functionality
