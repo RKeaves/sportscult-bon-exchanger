@@ -2,13 +2,13 @@
 // @name         sportscult-bon-exchanger
 // @description  Automatically exchange bonus points for 5 GB Upload when above threshold, with AJAX-updated bonus info and a draggable control UI.
 // @version      1.0
-// @namespace   https://github.com/rkeaves
-// @downloadURL https://github.com/rkeaves/sportscult-bon-exchanger/raw/main/sportscult-bon-exchanger.js
-// @updateURL   https://github.com/rkeaves/sportscult-bon-exchanger/raw/main/sportscult-bon-exchanger.js
+// @namespace    https://github.com/rkeaves
+// @downloadURL  https://github.com/rkeaves/sportscult-bon-exchanger/raw/main/sportscult-bon-exchanger.js
+// @updateURL    https://github.com/rkeaves/sportscult-bon-exchanger/raw/main/sportscult-bon-exchanger.js
 // @license      GPL-3.0-or-later
 // @match        https://sportscult.org/index.php?page=modules&module=seedbonus*
 // @grant        none
-// @author      rkeaves
+// @author       rkeaves
 // ==/UserScript==
 
 (function () {
