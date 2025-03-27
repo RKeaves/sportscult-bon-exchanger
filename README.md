@@ -33,8 +33,8 @@ This userscript automatically exchanges bonus points when they exceed a configur
 ## Installation
 
 1. **Install a Userscript Manager:**
-   - [Tampermonkey for Chrome](https://www.tampermonkey.net/)
-   - [Greasemonkey for Firefox](https://www.greasespot.net/)
+   - [Tampermonkey](https://www.tampermonkey.net/)
+   - [Greasemonkey](https://www.greasespot.net/)
 
 2. **Add the Script:**
    - Visit the [raw script URL](https://github.com/rkeaves/auto-delete-unit3d/raw/main/auto-delete-unit3d.js) and click “Install” in your userscript manager.
