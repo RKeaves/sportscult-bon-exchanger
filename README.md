@@ -32,12 +32,12 @@ This userscript automatically exchanges bonus points when they exceed a configur
 
 ## Installation
 
-1. Install a userscript manager:
-   - [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge)
-   - [Greasemonkey](https://www.greasespot.net/) (Firefox)
+1. **Install a Userscript Manager:**
+   - [Tampermonkey for Chrome](https://www.tampermonkey.net/)
+   - [Greasemonkey for Firefox](https://www.greasespot.net/)
 
-2. Click the raw installation link:  
-   [Install Script](https://github.com/rkeaves/sportscult-bon-exchanger/raw/main/sportscult-bon-exchanger.js)
+2. **Add the Script:**
+   - Visit the [raw script URL](https://github.com/rkeaves/auto-delete-unit3d/raw/main/auto-delete-unit3d.js) and click “Install” in your userscript manager.
 
 ---
 
