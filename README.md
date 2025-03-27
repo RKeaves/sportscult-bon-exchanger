@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue) ![License](https://img.shields.io/badge/License-GPL--3.0-green)
 
 <p align="center">
-  <img src="https://ptpimg.me/3e452n.png" alt="Control Panel Preview" style="width: 45%;">
+  <img src="https://ptpimg.me/3e452n.png" alt="Control Panel Preview" style="width: 52%;">
 </p>
 
 _Auto-exchange bonus points for 5 GB Upload on sportscult.org with a customizable control panel._
